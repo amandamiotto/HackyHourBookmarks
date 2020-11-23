@@ -1,15 +1,8 @@
 	
-	
-###  Bookmarks bar
-	
-| RESOURCE NAME 	|	URL	|
-|----------------|-------|
+
 	
 	
-###  HackyPublic
-	
-| RESOURCE NAME 	|	URL	|
-|----------------|-------|
+## Hacky Public
 	
 	
 ###  R
