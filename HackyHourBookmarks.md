@@ -37,6 +37,7 @@
 |  Python as a Second Language: Basics 	|  https://swcarpentry.github.io/python-second-language/01-basics/  |
 |  Episodes - [Talk Python To Me Podcast] 	|  https://talkpython.fm/episodes/all  |
 |  Image processing in Python — scikit-image 	|  http://scikit-image.org/  |
+| Introduction to Cultural Analytics using Python  | https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html |
 	
 	
 ###  Data Visualizations
