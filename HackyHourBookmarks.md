@@ -1,11 +1,5 @@
 	
 	
-###  HackyPublic
-	
-| RESOURCE NAME 	|	URL	|
-|----------------|-------|
-	
-	
 ###  R
 	
 | RESOURCE NAME 	|	URL	|
