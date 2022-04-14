@@ -2,4 +2,4 @@ This is a collection of bookmarks I've collated while talking to students. Feel 
 
 https://amandamiotto.github.io/HackyHourBookmarks/
 
-Thanks!
+Thanks very much!
