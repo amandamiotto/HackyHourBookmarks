@@ -262,7 +262,7 @@
 	
 | RESOURCE NAME 	|	URL	|
 |----------------|-------|
-| Atom 	| [https://atom.io/](https://atom.io/) |
+| Visual Studio Code 	| [https://code.visualstudio.com](https://code.visualstudio.com) |
 | Code Carabiners: Essential Protection Tools for Safe Programming - O'Reilly Radar 	| [http://radar.oreilly.com/2014/01/code-carabiners-essential-protection-tools-for-safe-programming.html?cmp=tw-prog-na-article-pr_code_carabiners](http://radar.oreilly.com/2014/01/code-carabiners-essential-protection-tools-for-safe-programming.html?cmp=tw-prog-na-article-pr_code_carabiners) |
 | Code for a Living - Stack Overflow Blog 	| [https://stackoverflow.blog/code-for-a-living/](https://stackoverflow.blog/code-for-a-living/) |
 | Hard Coding Concepts Explained with Simple Real-life Analogies 	| [https://medium.freecodecamp.org/hard-coding-concepts-explained-with-simple-real-life-analogies-280635e98e37](https://medium.freecodecamp.org/hard-coding-concepts-explained-with-simple-real-life-analogies-280635e98e37) |
